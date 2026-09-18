@@ -1,0 +1,10 @@
+# Daily automation (heatmap only) needs just these two:
+requests==2.32.3
+beautifulsoup4==4.12.3
+
+# Portrait pipeline — run locally, only when the photo changes.
+# Not installed by the GitHub Actions workflow.
+#   pillow
+#   numpy
+#   opencv-python
+#   rembg

@@ -1,0 +1,8 @@
+# Cached rembg cutout: ~1 MB, regenerated from source-photo.jpg by
+# scripts/prep_photo.py. The graded source-prepped.png is committed, so the
+# portrait can be re-rendered without re-running rembg.
+assets/source-cutout.png
+
+__pycache__/
+*.pyc
+.venv/
